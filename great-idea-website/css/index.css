@@ -126,3 +126,27 @@ nav a{
 	margin:50px 0px 50px 10px;
 }
 
+.border{
+	border-bottom: 1px solid black;
+}
+
+.bottom{
+	display:inline-block;
+	width:32%;
+	margin:50px 0px;
+}
+
+.bottom2{
+	display:inline-block;
+	width:32%;
+	margin:50px 0px 50px 10px;
+}
+
+address{
+	margin:50px 0px;
+}
+
+footer{
+	text-align:center;
+	margin-bottom:50px;
+}
