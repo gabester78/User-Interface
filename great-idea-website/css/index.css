@@ -66,40 +66,63 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 body{
-	width:950px;
+	width:876px;
 	margin: 0 auto;
 }
 
 header nav{
-	margin-top:45px;
+	margin-top:50px;
 }
 
 nav a{
-	margin-right:68px;
+	margin-right:60px;
 	color:gray;
 	text-decoration:none;
 }
 
 .logo {
-	margin-right:0px;
 	float:right;
-	margin-top:-30px;
+	margin-left:693px;
+	margin-top:-28px;
 }
 
-h1{
+.hero{
+	border-bottom: 1px solid black;
+	padding-bottom:80px;
+}
+
+.hero h1{
 	text-align:center;
 	display:inline-block;
 	font-size:90px;
-	margin-left:80px;
+	margin-left:60px;
 	margin-top:120px;
 }
 
-.cta{
+.hero .cta{
 	width: 190px;
 	border: 1px solid black;
 	padding: 8px;
 	text-align: center;
-	margin-left: 160px;
+	margin-left: 140px;
 	font-weight:bold;
 	font-size:18px;
 }
+
+.hero .code{
+	margin-left:495px;
+	margin-top:-370px;
+}
+
+.top{
+	display:inline-block;
+	width:49%;
+	margin:50px 0px;
+}	
+
+.top2{
+	display:inline-block;
+	width:49%;
+	margin:50px 0px 50px 10px;
+}
+
