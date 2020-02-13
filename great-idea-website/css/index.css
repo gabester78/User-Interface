@@ -119,6 +119,9 @@ nav a:hover{
 	animation-duration: 4s;
 	animation-iteration-count: infinite;
 }
+.hero a{
+	text-decoration:none;
+}
 
 @keyframes example {
 	0%   {color:black; background-color: white;}
